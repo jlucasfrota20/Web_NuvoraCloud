@@ -218,6 +218,11 @@ img {
     background: var(--color-surface);
 }
 
+.hero-card:hover {
+    transition: var(--transition);
+    box-shadow: 5px 5px 10px 3px rgba(0, 180, 54, 0.2);
+}
+
 .status-dot {
     display: block;
     width: 10px;
