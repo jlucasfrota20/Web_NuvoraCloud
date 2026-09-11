@@ -6,6 +6,8 @@ A **NuvoraCloud** é uma landing page sobre uma empresa fictícia desenvolvida p
 
 O projeto foi criado com foco em **design moderno, organização, responsividade e apresentação profissional dos serviços**. A priori, a landing page prioriza a objetividade e precisão na comunicação da ideia central do projeto.
 
+Deploy no GitHub Pages: [NuvoraCloud](https://jlucasfrota20.github.io/Web_landpage-NuvoraCloud/)
+
 ---
 
 ## 🎯 Objetivo
@@ -59,6 +61,42 @@ A interface foi desenvolvida para se adaptar a diferentes tamanhos de tela:
 * 💻 Notebook
 * 📱 Smartphone
 * 📟 Tablet
+
+---
+
+## 🤖 Engenharia de prompt
+
+Para criação do modelo base foram utilizados os seguintes prompts:
+
+01.
+```
+Vamos construir uma landpage apresentando serviços em nuvem, vamos fazer uma apresentação dos principais serviços de nuvem de uma empresa fictícia parecida com a AWS.
+
+Nosso projeto terá 2 arquivos principais, index.html e style.css apenas. Ou seja, sem JS. Uma página simples sem redirecionamento com links.
+
+Preciso da construção de um HTML semântico e responsivo (celulares, tablets, notebooks e computadores) junto a um CSS bem estilizado com efeitos simples com mouse para deixar a experiência do usuário a melhor possível.
+
+O HTML precisa ter:
+- Header com o nome do serviço e alguns links de navegação simples <nav>
+- Hero section para CTA
+- Uma seção Sobre para descrição do projeto
+- 4 imagens temáticas mostrando nossos serviços oferecidos e acessibilidade com atributo alt.
+- Footer com links de contato e copyright
+
+No CSS declare variáveis para retrabalho rápido e defina uma paleta de cores única seguindo a regra de 60-30-10 para aplicar à página.
+```
+
+02.
+```
+Apenas mude o que eu disser.
+Retire essa estética de IA com efeitos brilhantes e luzes exageradas. Dê uma cara nova para o site.
+Adicione um botão de light e dark mode Simplifique o CSS, sem pseudo-elementos e organize com identação.
+```
+
+03.
+```
+Mude a disposição das fotos, alternando entre esquerda e direita, colocando a foto + a descrição do serviço.
+```
 
 ## 👨‍💻 Projeto
 
