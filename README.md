@@ -12,7 +12,7 @@ Deploy no GitHub Pages: [NuvoraCloud](https://jlucasfrota20.github.io/Web_landpa
 
 ## 🎯 Objetivo
 
-O objetivo desse projeto é desenvolver experiência no uso responsável da IA para criação rápida de páginas e web e auxílio na construção de sites modernos sem perder a autonomia profissional sobre o projeto. Assim, utilizaram-se o **ChatGPT** para criação do modelo base do projeto e **GitHub Copilot** para programação eficiente e assertiva melhorando muita a velocidade do projeto. O que pode ser visto no tempo de finalização dessa página, que durou menos de 2 horas corridas. Ou seja, a IA pode ser o usada para acelerar o desenvolvimento, mas nunca deve substituir o conhecimento de um programador e ficar sem revisão, pois isso pode gerar retrabalho futuro, confusões e resultados genéricos.
+O objetivo desse projeto é desenvolver experiência no uso responsável da IA para criação rápida de páginas e web e auxílio na construção de sites modernos sem perder a autonomia profissional sobre o projeto. Assim, utilizaram-se o **ChatGPT** para criação do modelo base do projeto e **GitHub Copilot** para programação eficiente e assertiva melhorando muita a velocidade do projeto. O que pode ser visto no tempo de finalização dessa página, que durou menos de 2 horas corridas. Ou seja, a IA pode ser usada para acelerar o desenvolvimento, mas nunca deve substituir o conhecimento de um programador e ficar sem revisão, pois isso pode gerar retrabalho futuro, confusões e resultados genéricos.
 
 ---
 
