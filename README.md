@@ -1,6 +1,6 @@
 # ☁️ NuvoraCloud
 
-> Infraestrutura digital simplificada para para projetos modernos em nuvem.
+> Infraestrutura digital simplificada para projetos modernos em nuvem.
 
 A **NuvoraCloud** é uma landing page sobre uma empresa fictícia desenvolvida para apresentar serviços de computação em nuvem, armazenamento, bancos de dados e segurança digital.
 
