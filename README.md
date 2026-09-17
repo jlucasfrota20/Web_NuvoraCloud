@@ -6,7 +6,7 @@ A **NuvoraCloud** é uma landing page sobre uma empresa fictícia desenvolvida p
 
 O projeto foi criado com foco em **design moderno, organização, responsividade e apresentação profissional dos serviços**. A priori, a landing page prioriza a objetividade e precisão na comunicação da ideia central do projeto.
 
-Deploy no GitHub Pages: [NuvoraCloud](https://jlucasfrota20.github.io/Web_landpage-NuvoraCloud/)
+Deploy no GitHub Pages: [NuvoraCloud](https://jlucasfrota20.github.io/Web_NuvoraCloud/)
 
 ---
 
